@@ -1,4 +1,4 @@
-[![openpilot on the comma 3X](https://imgur.com/a/kpQWdIn)](https://comma.ai/shop/comma-3x)
+[![openpilot on the comma 3X](https://i.imgur.com/dNHkb6I.png)](https://comma.ai/shop/comma-3x)
 
 What is openpilot?
 ------
