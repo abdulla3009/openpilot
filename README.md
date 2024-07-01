@@ -1,3 +1,6 @@
+
+Qatari & Emirati 🇶🇦 🇦🇪 openpilot
+
 [![openpilot on the comma 3X](https://i.imgur.com/6l2qbf5.png)](https://comma.ai/shop/comma-3x)
 
 What is openpilot?
@@ -13,25 +16,25 @@ What is openpilot?
   </tr>
 </table>
 
-What is FrogPilot? 🐸
+What is FalconPilot? 🦅
 ------
 
-FrogPilot is a fully open-sourced fork of openpilot, featuring clear and concise commits striving to be a resource for the openpilot developer community. It thrives on contributions from both users and developers, focusing on a collaborative, community-led approach to deliver an advanced openpilot experience for everyone!
+FalconPilot is a fully open-sourced fork of openpilot, featuring clear and concise commits striving to be a resource for the openpilot developer community. It thrives on contributions from both users and developers, focusing on a collaborative, community-led approach to deliver an advanced openpilot experience for everyone!
 
 ------
-FrogPilot was last updated on:
+FalconPilot was last updated on:
 
 **June 1st, 2024**
 
 Features
 ------
 
-FrogPilot offers a wide range of customizable features that are easily toggled on or off to suit your preferences. Whether you want a completely stock openpilot experience, or want to add some fun and personal touches, FrogPilot has you covered! Some of the features include:
+FalconPilot offers a wide range of customizable features that are easily toggled on or off to suit your preferences. Whether you want a completely stock openpilot experience, or want to add some fun and personal touches, FalconPilot has you covered! Some of the features include:
 
 ------
 ⚡ **Advanced Customizations:**
 
-  - "Alert Volume Controller" to set the volume level for each of of openpilot's sounds
+  - "Alert Volume Controller" to set the volume level for each of openpilot's sounds
   - Customize the following distance and jerk values for each personality profile
   - Fine tune your car's "Steer Ratio" to perfect your lateral control
   - Increase the distance when stopped behind lead vehicles
@@ -40,13 +43,13 @@ FrogPilot offers a wide range of customizable features that are easily toggled o
 ------
 🎨 **Custom Themes:**
 
-  - 🐸 Frog theme (with a bonus 🐐 sound effect)
+  - 🦅 Falcon theme (with a bonus 🐐 sound effect)
   - <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f1f7-1f1fa.png" width="15" height="12"> Russia / Joseph Stalin theme
   - 🔌 Tesla theme
   - Holiday themes! Minor holidays last a day, while major holidays (Easter, Halloween, Thanksgiving, Christmas) last a week
   - Random events triggered by specific actions while driving with openpilot
 
-  - 📢 Want to add a theme? Request one in the "feature-request" channel in the FrogPilot Discord!
+  - 📢 Want to add a theme? Request one in the "feature-request" channel in the FalconPilot Discord!
 ------
 🚀 **Conditional Experimental Mode:**
 
@@ -68,7 +71,7 @@ FrogPilot offers a wide range of customizable features that are easily toggled o
 
   - Adjustable screen brightness for both onroad and offroad states
   - Adjustable screen timeout times for both onroad and offroad states
-  - Backup and restore previous versions of FrogPilot
+  - Backup and restore previous versions of FalconPilot
   - Backup and restore previous versions of toggle configurations
   - Battery level threshold to automatically shut the device down after you car's battery falls below a set voltage limit when offroad
   - Delete stored driving data for increased privacy/space via the "Device" panel
@@ -147,82 +150,4 @@ FrogPilot offers a wide range of customizable features that are easily toggled o
   - GM Volt support
   - Honda Clarity support
   - Increased torque for the Subaru Crosstrek
-  - Lock doors automatically when in the drive gear for Toyota/Lexus and unlock when in park
-  - openpilot longitudinal control for GM vehicles without ACC
-  - Pedal interceptor support for GM vehicles
-  - "Stop and Go" hack for Toyota's without stop and go functionality
-  - ZSS support for the Toyota Prius and Sienna
-------
-🚦 **Quality of Life Features:**
-
-  - Automatic updates for a completely "set and forget" experience
-  - Camera view selection
-  - Custom alerts for green lights, vehicles in blindspot, lead departing, and the current speed limit changing
-  - Display the driver camera when in reverse
-  - Driving statistics to show how many hours and miles you've driven on the home screen
-  - Fleet Manager to easily access your driving data and screen recordings
-  - Numerical temperature gauge
-  - Retain tethering status between reboots
-  - Screenrecorder
-  - Toggle "Experimental Mode" via the "Lane Departure Alert" button, holding down the "Distance" button for 0.5+ seconds, or by double tapping the screen
-
-How to Install
-------
-
-Easiest way to install FrogPilot is via this URL at the installation screen:
-
-```
-frogpilot.download
-```
-
-DO NOT install the "FrogPilot-Development" branch. I'm constantly breaking things on there, so unless you don't want to use openpilot, NEVER install it!
-
-![](https://i.imgur.com/swr0kqJ.png)
-
-Bug reports / Feature Requests
-------
-
-If you encounter any issues or bugs while using FrogPilot, or if you have any suggestions for new features or improvements, please don't hesitate to post about it on the Discord! I'm always looking for ways to improve the fork and provide a better experience for everyone!
-
-To report a bug or request a new feature, make a post in the #bug-reports or #feature-requests channel respectively on the FrogPilot Discord. Please provide as much detail as possible about the issue you're experiencing or the feature you'd like to see added. Photos, videos, log files, or other relevant information are very helpful!
-
-I will do my best to respond to bug reports and feature requests in a timely manner, but please understand that I may not be able to address every request immediately. Your feedback and suggestions are valuable, and I appreciate your help in making FrogPilot the best it can be!
-
-Discord
-------
-
-[Join the FrogPilot Community Discord!](https://discord.gg/frogpilot)
-
-Credits
-------
-
-* [AlexandreSato](https://github.com/AlexandreSato)
-* [Crwusiz](https://github.com/crwusiz)
-* [DragonPilot](https://github.com/dragonpilot-community)
-* [ErichMoraga](https://github.com/ErichMoraga)
-* [Garrettpall](https://github.com/garrettpall)
-* [Mike8643](https://github.com/mike8643)
-* [Neokii](https://github.com/Neokii)
-* [OPGM](https://github.com/opgm)
-* [OPKR](https://github.com/openpilotkr)
-* [Pfeiferj](https://github.com/pfeiferj)
-* [ServerDummy](https://github.com/ServerDummy)
-* [Twilsonco](https://github.com/twilsonco)
-
-Licensing
-------
-
-openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
-
-Any user of this software shall indemnify and hold harmless Comma.ai, Inc. and its directors, officers, employees, agents, stockholders, affiliates, subcontractors and customers from and against all allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys’ fees and costs) which arise out of, relate to or result from any use of this software by user.
-
-**THIS IS ALPHA QUALITY SOFTWARE FOR RESEARCH PURPOSES ONLY. THIS IS NOT A PRODUCT.
-YOU ARE RESPONSIBLE FOR COMPLYING WITH LOCAL LAWS AND REGULATIONS.
-NO WARRANTY EXPRESSED OR IMPLIED.**
-
----
-
-<img src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1061157-bc7e9bf3b246ece7322e6ffe653f6af8-medium_jpg.jpg?buster=1458363130" width="75"></img> <img src="https://cdn-images-1.medium.com/max/1600/1*C87EjxGeMPrkTuVRVWVg4w.png" width="225"></img>
-
-![openpilot tests](https://github.com/commaai/openpilot/actions/workflows/selfdrive_tests.yaml/badge.svg)
-[![codecov](https://codecov.io/gh/commaai/openpilot/branch/master/graph/badge.svg)](https://codecov.io/gh/commaai/openpilot)
+  - Lock doors automatically when in the drive gear for Toyota/Lexus
